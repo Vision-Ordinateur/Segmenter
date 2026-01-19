@@ -70,24 +70,3 @@ Une comparaison a été effectuée avec le modèle **SAM3** :
 Cette comparaison montre qu’un modèle spécialisé est plus adapté lorsqu’une segmentation contrôlée et précise est requise.
 
 
-
-## Résultats
-- Segmentation multi-classes globalement cohérente
-- Bonne détection de la classe personne en environnement intérieur
-- Limites observées :
-  - imprécisions sur les contours
-  - difficultés sur les objets fins ou les zones complexes
-
-
-
-## Technologies utilisées
-- Python
-- PyTorch
-- Vision Transformers (ViT)
-- Transformers
-- Traitement et analyse d’images
-
----
-
-## 🎓 Contexte académique
-Projet réalisé dans le cadre d’un **Master en Intelligence Artificielle**, orienté **Vision par Ordinateur et Robotique**.
