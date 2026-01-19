@@ -69,4 +69,11 @@ Une comparaison a été effectuée avec le modèle **SAM3** :
 
 Cette comparaison montre qu’un modèle spécialisé est plus adapté lorsqu’une segmentation contrôlée et précise est requise.
 
+## Technologies utilisées
+- Python
+- PyTorch
+- Transformers (SegFormer)
+- PIL, NumPy, Matplotlib
+
+
 
