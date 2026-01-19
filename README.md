@@ -1,7 +1,7 @@
 # Description
 Ce projet présente une étude progressive de la segmentation sémantique par Transformers. Il débute par l’analyse et l’expérimentation de la segmentation multi-classes à l’aide du modèle Segmenter, avant d’aborder un cas d’usage ciblé portant sur la segmentation de la classe personne en environnement intérieur. Cette démarche permet d’évaluer à la fois les capacités générales du modèle et son adaptation à une application spécifique.
 
-## 🎯 Objectifs du projet
+## Objectifs du projet
 - Comprendre les principes de la segmentation sémantique
 - Étudier l’architecture du modèle **Segmenter**
 - Expérimenter la segmentation multi-classes basée sur les Transformers
