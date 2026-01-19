@@ -72,7 +72,7 @@ Cette comparaison montre qu’un modèle spécialisé est plus adapté lorsqu’
 ## Technologies utilisées
 - Python
 - PyTorch
-- Transformers (SegFormer)
+- Transformers
 - PIL, NumPy, Matplotlib
 
 
